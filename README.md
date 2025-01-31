@@ -1,4 +1,4 @@
-# **Modelo de Banco de Dados para Oficina Mecânica**
+# **Modelo de Banco de Dados de OS para Oficina Mecânica**
 
 ## **📌 Descrição do Projeto**
 Este projeto contém um modelo de banco de dados relacional para o gerenciamento de **ordens de serviço (OS)** em uma oficina mecânica. O objetivo é otimizar o controle de clientes, veículos, mecânicos, serviços e peças, garantindo um sistema eficiente e escalável.
